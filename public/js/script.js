@@ -1,4 +1,5 @@
 // navbar fixed
+import '../css/style.css';
 
 window.onscroll = function () {
     const header = document.querySelector('header')
